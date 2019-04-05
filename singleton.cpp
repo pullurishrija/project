@@ -35,4 +35,5 @@ main()
 {
 	singleton::create_object();
 	singleton::create_object();
+	singleton::create_object();
 }
