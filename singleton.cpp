@@ -36,4 +36,8 @@ main()
 	singleton::create_object();
 	singleton::create_object();
 	singleton::create_object();
+<<<<<<< HEAD
+=======
+	singleton::create_object();
+>>>>>>> master
 }
